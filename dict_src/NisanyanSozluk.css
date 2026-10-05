@@ -1,0 +1,22 @@
+@charset "UTF-8";
+@namespace d url(http://www.apple.com/DTDs/DictionaryService-1.0.rng);
+
+d|entry {
+	font-family: ui-serif;
+	font-size: 12pt;
+}
+
+h1 {
+	font-size: 142%;
+	font-weight: bold;
+	line-height: 150%;
+	margin: 0 0 0.2em 0;
+}
+
+.ns_section {
+	margin-top: 0.8em;
+}
+
+.ns_section ul {
+	padding-left: 1.2em;
+}

@@ -1,0 +1,23 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Apple's Dictionary Development Kit (get it yourself from
+# developer.apple.com/download/all -> "Additional Tools for Xcode")
+Dictionary Development Kit/
+
+# Build artifacts
+dict_src/objects/
+
+# Dictionary data and generated bundles stay local
+data/
+*.dictionary/
+data/raw/archive.zip
+data/raw/*.dmg
+*.dmg
+
+# Local tooling
+.claude/
+.DS_Store
+**/.DS_Store

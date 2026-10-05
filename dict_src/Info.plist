@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>Turkish</string>
+	<key>CFBundleDisplayName</key>
+	<string>Nişanyan Sözlük</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.fifofuko.dictionary.NisanyanSozluk</string>
+	<key>CFBundleName</key>
+	<string>Nişanyan Sözlük</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.5</string>
+	<key>DCSDictionaryCopyright</key>
+	<string>İçerik nisanyansozluk.com kaynaklıdır (Sevan Nişanyan, Çağdaş Türkçenin Etimolojisi). Kişisel kullanım içindir.</string>
+	<key>DCSDictionaryManufacturerName</key>
+	<string>nisanyansozluk.com</string>
+	<key>DCSDictionaryPrimaryLanguage</key>
+	<string>tr</string>
+	<key>DCSDictionaryLanguages</key>
+	<array>
+		<dict>
+			<key>DCSDictionaryIndexLanguage</key>
+			<string>tr</string>
+			<key>DCSDictionaryDescriptionLanguage</key>
+			<string>tr</string>
+		</dict>
+	</array>
+	<key>DCSDictionaryUseSystemAppearance</key>
+	<true/>
+</dict>
+</plist>
